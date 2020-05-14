@@ -68,3 +68,19 @@ module.exports = {
   ]
 };
 ```
+
+### 아이콘
+
+[링크](https://material.io/resources/icons/?style=baseline)에서 여러가지 종류 확인 후
+
+cdn 추가
+
+```html
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+```
+
+icon 추가
+
+```html
+<v-icon>home</v-icon>
+```
