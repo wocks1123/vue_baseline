@@ -84,3 +84,24 @@ icon 추가
 ```html
 <v-icon>home</v-icon>
 ```
+
+
+
+## 필요 모듈 설치
+
+`package.json`에 있지만 설치법은 작성해둠
+
+
+### vuetify
+
+```bash
+vue add vuetify
+```
+
+```bash
+npm install --save axios
+```
+
+```bash
+npm install --save vue-router
+```
